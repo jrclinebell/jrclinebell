@@ -124,7 +124,7 @@
 <table bgcolor="#0056b3" width="100%">
   <tr>
     <td align="center">
-      <h2 style="color: white; border: none;">Network Technician Career Path</h2>
+      <h2 style="color: white; border: none;">Network Technician Career Path Badges</h2>
     </td>
   </tr>
 </table>
