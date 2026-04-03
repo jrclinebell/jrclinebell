@@ -72,4 +72,57 @@
     <img src="https://images.credly.com/size/340x340/images/9e38eff5-2348-4f2e-b226-fa0150731390/build-visualizations-2048.png" width="110" />
   </a>
   <a href="https://www.credly.com/badges/e0b3d36d-4011-4687-bd5c-839ce48f8b77">
+    <img src="https://images.credly.com/size/340x340/images/ba956361-13b0-42c7-8cd9-4fb4ddb7f1de/Badges_final_9.24.19_CP600_edits_Community-Leader-01.png" width="110" />
+  </a>
+  <a href="https://www.credly.com/badges/c546f9c6-fa19-445c-aa9a-577319065855">
+    <img src="https://images.credly.com/size/340x340/images/d3fcdfef-0038-4005-a0e5-d2cbb0a1e1df/Badges_final_9.24.19_CP600_edits_Executive-Sponsor.png" width="110" />
+  </a>
+  <a href="https://www.credly.com/badges/f40e75c0-d61a-49ad-879b-f91e0fb32445">
+    <img src="https://images.credly.com/size/340x340/images/0e568f74-68e2-404e-ae25-d67fa0b5c848/Author-600X600.png" width="110" />
+  </a>
+</p>
+
+<br/>
+
+<table bgcolor="#0056b3" width="100%">
+  <tr>
+    <td align="center">
+      <h2 style="color: white; border: none;">Junior Cybersecurity Analyst Career Path Badges</h2>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/8c3be79f-76b2-49ca-9ec4-4d0d7c903b30">
+    <img src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="110" />
+  </a>
+  <a href="https://www.credly.com/badges/32e8a77a-4112-41a3-8961-8dcf434aa6f2">
+    <img src="https://images.credly.com/size/340x340/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="110" />
+  </a>
+  <a href="https://www.credly.com/badges/3c62da12-dbde-4e50-91ba-bb8b75d9adfb">
+    <img src="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="110" />
+  </a>
+  <a href="https://www.credly.com/badges/75c71bfd-d4cf-46b0-a9a3-86897ea437f1">
+    <img src="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="110" />
+  </a>
+  <a href="https://www.credly.com/badges/e5403e08-40bc-4e70-8bcc-5359976b3cfe">
+    <img src="https://images.credly.com/size/340x340/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="110" />
+  </a>
+</p>
+
+<br/>
+
+<table bgcolor="#0056b3" width="100%">
+  <tr>
+    <td align="center">
+      <h2 style="color: white; border: none;">Network Technician Career Path</h2>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/a254c087-54d6-4c53-8323-9d991bf7872f">
+    <img src="https://images.credly.com/size/340x340/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="110" />
+  </a>
+  <a href="https://www.credly.com/badges/ad05c745-3feb-4f60-ac60-4e8f9e840fd0">
     <img src="
