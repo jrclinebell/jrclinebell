@@ -43,7 +43,7 @@
   <a href="https://www.credly.com/badges/57af9a51-7877-4a17-a30b-a24e455b9136">
     <img src="https://images.credly.com/size/340x340/images/870c5e92-55dd-48dd-aaed-cfe6293c409b/blob" width="110" />
   </a>
-    <a href="https://api.accredible.com/v1/obi/badge_assertions/f3d798c1-b6a2-4377-9ca0-30fad6223694">
+    <a href="https://credentials.databricks.com/f3d798c1-b6a2-4377-9ca0-30fad6223694#acc.ugK5ARaW">
     <img src="https://images.credly.com/images/e91e8dc7-85e3-4bfe-960c-9de6dbc706d3/58a4938d-4b15-437f-8af4-29eb1e47af97_cached_image_20260330-31-p5qtyk.png" width="110" />
   </a>
   <a href="https://www.credly.com/badges/08c22e87-dc6d-46b1-afee-3d005ad8b2bc">
