@@ -12,6 +12,9 @@
   <a href="https://www.credly.com/badges/9793ca7a-ef73-47f5-b82b-48caa19d6d4a">
     <img src="https://images.credly.com/size/340x340/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="110" />
   </a>
+   <a href="https://www.credly.com/badges/13260a98-2cd7-414d-9674-3319876cb4b3">
+    <img src="https://images.credly.com/size/340x340/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" width="110" />
+  </a>
   <a href="https://www.credly.com/badges/51a380af-74e5-481d-a018-f450cf2e3383">
     <img src="https://images.credly.com/size/340x340/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" width="110" />
   </a>
