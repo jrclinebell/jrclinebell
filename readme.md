@@ -98,8 +98,11 @@
   <a href="https://www.credly.com/badges/2ad894e5-193f-4378-9560-0f2ab0d8a727">
     <img src="https://images.credly.com/size/340x340/images/9e38eff5-2348-4f2e-b226-fa0150731390/build-visualizations-2048.png" width="110" />
   </a>
-  <a href="https://www.credly.com/badges/f40e75c0-d61a-49ad-879b-f91e0fb32445">
-    <img src="https://images.credly.com/size/340x340/images/0e568f74-68e2-404e-ae25-d67fa0b5c848/Author-600X600.png" width="110" />
+  <a href="https://credentials.databricks.com/dc8f7a71-4de7-4db4-99ee-20b648f351ea#acc.rHVQLKN9">
+    <img src="https://images.credly.com/images/f616a532-269c-4ca0-95d6-49f38c00f2cd/a33d903f-0740-4910-a877-f64a6ea5fc62_cached_image_20260609-34-o4b23t.png" width="110" />
+  </a>
+    <a href="https://credentials.databricks.com/86ced46a-d0f7-4d45-ac57-f6197012c1d0#acc.ZueHKvbn">
+    <img src="https://images.credly.com/images/e91e8dc7-85e3-4bfe-960c-9de6dbc706d3/58a4938d-4b15-437f-8af4-29eb1e47af97_cached_image_20260330-31-p5qtyk.png" width="110" />
   </a>
 </p>
 
