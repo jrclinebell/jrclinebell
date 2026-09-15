@@ -68,7 +68,7 @@
     <img src="https://images.credly.com/size/340x340/images/cd953e3c-7106-4547-ac48-2af013959760/blob" width="200" />
   </a>
   <a href="https://www.credly.com/badges/88fe234f-e9c6-425c-ac1f-67eae3c60b02">
-    <img src="https://images.credly.com/size/340x340/images/831b4845-11b7-4449-b157-19743f57107a/blob" width="160" />
+    <img src="https://images.credly.com/size/340x340/images/831b4845-11b7-4449-b157-19743f57107a/blob" width="200" />
   </a>
 </p>
 
@@ -105,7 +105,7 @@
     <img src="https://images.credly.com/images/f616a532-269c-4ca0-95d6-49f38c00f2cd/a33d903f-0740-4910-a877-f64a6ea5fc62_cached_image_20260609-34-o4b23t.png" width="200" />
   </a>
     <a href="https://credentials.databricks.com/86ced46a-d0f7-4d45-ac57-f6197012c1d0#acc.ZueHKvbn">
-    <img src="https://images.credly.com/images/bb4f782e-1635-46bd-a1f7-86f4feb15d2b/139b1efd-2f71-41e5-a8a0-2967d119f473_cached_image_20260604-32-bh30v8.png" width="200" />
+    <img src="https://images.credly.com/images/bb4f782e-1635-46bd-a1f7-86f4feb15d2b/139b1efd-2f71-41e5-a8a0-2967d119f473_cached_image_20260604-32-bh30v8.png" width="160" />
   </a>
 </p>
 
