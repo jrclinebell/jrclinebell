@@ -47,28 +47,28 @@
 
 <p align="center">
   <a href="https://badgr.com/public/assertions/qtaR8CaKRKSYbgLk_4-ZTg">
-    <img src="https://images.credly.com/images/e1e2ed35-2f1f-434b-992a-d783bdae4b5b/assertion-qtaR8CaKRKSYbgLk_4-ZTg_cached_image_20260330-32-kcix5u.png" width="110" />
+    <img src="https://images.credly.com/images/e1e2ed35-2f1f-434b-992a-d783bdae4b5b/assertion-qtaR8CaKRKSYbgLk_4-ZTg_cached_image_20260330-32-kcix5u.png" width="200" />
   </a>
   <a href="https://www.credly.com/badges/57af9a51-7877-4a17-a30b-a24e455b9136">
-    <img src="https://images.credly.com/size/340x340/images/870c5e92-55dd-48dd-aaed-cfe6293c409b/blob" width="110" />
+    <img src="https://images.credly.com/size/340x340/images/870c5e92-55dd-48dd-aaed-cfe6293c409b/blob" width="200" />
   </a>
     <a href="https://credentials.databricks.com/f3d798c1-b6a2-4377-9ca0-30fad6223694#acc.ugK5ARaW">
-    <img src="https://images.credly.com/images/e91e8dc7-85e3-4bfe-960c-9de6dbc706d3/58a4938d-4b15-437f-8af4-29eb1e47af97_cached_image_20260330-31-p5qtyk.png" width="110" />
+    <img src="https://images.credly.com/images/e91e8dc7-85e3-4bfe-960c-9de6dbc706d3/58a4938d-4b15-437f-8af4-29eb1e47af97_cached_image_20260330-31-p5qtyk.png" width="200" />
   </a>
  <a href="https://www.credly.com/badges/b072d64b-3162-4b2b-807f-7d606b8a9d89">
-    <img src="https://images.credly.com/size/340x340/images/54a6e189-7c27-4868-a933-d430858f6f0f/blob" width="110" />
+    <img src="https://images.credly.com/size/340x340/images/54a6e189-7c27-4868-a933-d430858f6f0f/blob" width="200" />
   </a>
   <a href="https://www.credly.com/badges/2cbc060b-7242-49a7-a5d8-87ddd608663a">
-    <img src="https://images.credly.com/size/340x340/images/4b2a2823-7c8f-41ac-8455-5c5b8220a131/blob" width="110" />
+    <img src="https://images.credly.com/size/340x340/images/4b2a2823-7c8f-41ac-8455-5c5b8220a131/blob" width="200" />
   </a>
   <a href="https://www.credly.com/badges/08c22e87-dc6d-46b1-afee-3d005ad8b2bc">
-    <img src="https://images.credly.com/size/340x340/images/efecb3e9-3b98-4cac-8331-1f2acc6e8526/blob" width="110" />
+    <img src="https://images.credly.com/size/340x340/images/efecb3e9-3b98-4cac-8331-1f2acc6e8526/blob" width="200" />
   </a>
   <a href="https://www.credly.com/badges/4a56e0c1-66ea-44d5-a943-cf8e93692f3f">
-    <img src="https://images.credly.com/size/340x340/images/cd953e3c-7106-4547-ac48-2af013959760/blob" width="110" />
+    <img src="https://images.credly.com/size/340x340/images/cd953e3c-7106-4547-ac48-2af013959760/blob" width="200" />
   </a>
   <a href="https://www.credly.com/badges/88fe234f-e9c6-425c-ac1f-67eae3c60b02">
-    <img src="https://images.credly.com/size/340x340/images/831b4845-11b7-4449-b157-19743f57107a/blob" width="110" />
+    <img src="https://images.credly.com/size/340x340/images/831b4845-11b7-4449-b157-19743f57107a/blob" width="200" />
   </a>
 </p>
 
